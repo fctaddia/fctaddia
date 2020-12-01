@@ -6,8 +6,27 @@ I'm a Junior Full Stack Developer
 <div align="center">
   <img align="left" style="margin: 10px" alt="Kotlin" height="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png">
   <img align="left" style="margin: 10px" alt="Java" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+  <img align="left" style="margin: 10px" alt="Swift" height="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130135.png">
+  <img align="left" style="margin: 10px" alt="Python" height="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/128/python_18894.png">
+  <img align="left" style="margin: 10px" alt="Cpp" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+  <img align="left" style="margin: 10px" alt="PHP" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+  <img align="left" style="margin: 10px" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img align="left" style="margin: 10px" alt="RubyOnRails" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/rails_plain_wordmark_logo_icon_146377.png">
+  <img align="left" style="margin: 10px" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img align="left" style="margin: 10px" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img align="left" style="margin: 10px" alt="MySQL" height="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/mysqlworkbench_93532.png">
+  <img align="left" style="margin: 10px" alt="MongoDB" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">
+
   <br>
   <br>
+</div>
+
+### Framework
+<div align="center">
+  <img align="left" style="margin: 10px" alt="React" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+  <img align="left" style="margin: 10px" alt="Firebase" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+  <img align="left" style="margin: 10px" alt="React" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
+  <img align="left" style="margin: 10px" alt="Boden" height="26px" src="https://drive.google.com/uc?export=view&id=1B1zorQAQk0qiQZEQ_lbioRp36zLbZdrJ">
 </div>
 
 ### Tools
