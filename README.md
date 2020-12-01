@@ -34,7 +34,7 @@ I'm a Junior Full Stack Developer
   <img align="left" style="margin: 10px" alt="Linux" height="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png">
   <img align="left" style="margin: 10px" alt="Git" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/git_plain_logo_icon_146507.png">
   <img align="left" style="margin: 10px" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-  <img align="left" style="margin: 10px" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img align="left" style="margin: 10px" alt="Terminal" height="26px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png">
   <br><br><br><br>
 </div>
 
