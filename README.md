@@ -5,7 +5,7 @@ I'm a Junior Full Stack Developer
 ### Languages
 <div align="center">
   <img align="left" style="margin: 10px" alt="Kotlin" height="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png">
-  <img align="left" style="margin: 10px" alt="Java" height="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png">
+  <img align="left" style="margin: 10px" alt="Java" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
   <br>
   <br>
 </div>
