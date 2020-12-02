@@ -17,7 +17,7 @@ I'm a Junior Full Stack Developer
   <img align="left" style="margin: 10px" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   <img align="left" style="margin: 10px" alt="MySQL" height="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/mysqlworkbench_93532.png">
   <img align="left" style="margin: 10px" alt="MongoDB" height="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png">
-  <br><br><br>
+  <br><br>
 </div>
 
 ### Framework
