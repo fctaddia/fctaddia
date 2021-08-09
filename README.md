@@ -1,6 +1,6 @@
 ### Hi there, I'm Francesco 👋
 
-I'm a Junior Full Stack Developer
+I'm a Full Stack Developer
 
 ### Languages
 <div align="center">
