@@ -38,7 +38,3 @@ I'm a Full Stack Developer
   <img align="left" style="margin: 10px" alt="Terminal" height="26px" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png">
   <br><br><br><br>
 </div>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fctaddia&show_icons=true&theme=default&hide=prs&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fctaddia&layout=compact&theme=default&hide=netlogo,css,shell,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
